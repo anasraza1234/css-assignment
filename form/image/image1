@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://smit-form-786.netlify.app/img/register.jpg" alt="">
+    <a href="../index.html"> back to home</a>
+    
+    <img src="C:\Users\AA\Downloads\login.png" alt="">
+    <a href="../index.html">back to home</a>
+    
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpk.linkedin.com%2Fin%2Fsaylanimassittraining&psig=AOvVaw0D6eXq7RBy8TDTKqSLMrKZ&ust=1704652429831000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCLCC56azyYMDFQAAAAAdAAAAABAE" alt="">
+    <a href="../registration.html">back to home</a>
+
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpk.linkedin.com%2Fin%2Fsaylanimassittraining&psig=AOvVaw0D6eXq7RBy8TDTKqSLMrKZ&ust=1704652429831000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCLCC56azyYMDFQAAAAAdAAAAABAE" alt="">
+    <a href="../llogin.html">back to home</a>
+</body>
+</html>
